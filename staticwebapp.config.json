@@ -6,7 +6,8 @@
     },
     {
       "route": "/img",
-      "rewrite": "./img"
+      "rewrite": "./img",
+      "redirect": "./img"
     }
   ]
 }
