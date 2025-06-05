@@ -3,11 +3,6 @@
     {
       "route": "/",
       "redirect": "/index.html"
-    },
-    {
-      "route": "/img",
-      "rewrite": "./img",
-      "redirect": "./img"
     }
   ]
 }
